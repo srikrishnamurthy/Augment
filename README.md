@@ -30,12 +30,12 @@ brew install opencv
 ```
 
 ## Authors
-Srinidhi Krishnamurthy
-Wassim Omais
-Shwetark Patel
-Yang Liu
-Jerry Huang
-Yash Bolisetty
+* Srinidhi Krishnamurthy
+* Wassim Omais
+* Shwetark Patel
+* Yang Liu
+* Jerry Huang
+* Yash Bolisetty
 
 ## License
 
