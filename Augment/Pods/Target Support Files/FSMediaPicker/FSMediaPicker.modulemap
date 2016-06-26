@@ -1,0 +1,6 @@
+module FSMediaPicker {
+  umbrella header "FSMediaPicker-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/BALoadingView" "${PODS_ROOT}/Headers/Public/FSMediaPicker" "${PODS_ROOT}/Headers/Public/Firebase" "${PODS_ROOT}/Headers/Public/RSKImageCropper" "${PODS_ROOT}/Headers/Public/ZXingObjC"
+LIBRARY_SEARCH_PATHS = "$(PODS_ROOT)/Firebase"
+OTHER_CFLAGS = $(inherited) -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/BALoadingView" -isystem "${PODS_ROOT}/Headers/Public/FSMediaPicker" -isystem "${PODS_ROOT}/Headers/Public/Firebase" -isystem "${PODS_ROOT}/Headers/Public/RSKImageCropper" -isystem "${PODS_ROOT}/Headers/Public/ZXingObjC"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"BALoadingView" -l"FSMediaPicker" -l"Firebase" -l"FirebaseStatic" -l"RSKImageCropper" -l"ZXingObjC" -l"c++" -l"icucore" -framework "AVFoundation" -framework "CFNetwork" -framework "CoreGraphics" -framework "CoreMedia" -framework "CoreVideo" -framework "ImageIO" -framework "MobileCoreServices" -framework "QuartzCore" -framework "Security" -framework "SystemConfiguration" -framework "UIKit"
+PODS_ROOT = ${SRCROOT}/Pods

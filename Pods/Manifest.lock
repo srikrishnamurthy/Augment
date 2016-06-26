@@ -1,0 +1,24 @@
+PODS:
+  - BALoadingView (0.1.1)
+  - Firebase (2.5.0)
+  - FSMediaPicker (0.0.2)
+  - RSKImageCropper (0.5.0)
+  - ZXingObjC (3.1.0):
+    - ZXingObjC/All (= 3.1.0)
+  - ZXingObjC/All (3.1.0)
+
+DEPENDENCIES:
+  - BALoadingView (~> 0.1)
+  - Firebase (>= 2.5.0)
+  - FSMediaPicker (~> 0.0)
+  - RSKImageCropper (~> 0.0)
+  - ZXingObjC (~> 3.0)
+
+SPEC CHECKSUMS:
+  BALoadingView: 181325648e67358b06dcedbc1cedfaeee35f8398
+  Firebase: 744617c0733b45198f9486ebd5cac64ec2d10d79
+  FSMediaPicker: 89c5fe9894a288db7c87c255bdb7856e33dc4073
+  RSKImageCropper: d3cde100b9a7ddac38bd1acc82ba4285a8d7e633
+  ZXingObjC: bf15b3814f7a105b6d99f47da2333c93a063650a
+
+COCOAPODS: 0.39.0

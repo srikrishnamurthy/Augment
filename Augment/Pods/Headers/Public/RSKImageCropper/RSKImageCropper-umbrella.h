@@ -1,0 +1,1 @@
+../../../Target Support Files/RSKImageCropper/RSKImageCropper-umbrella.h
