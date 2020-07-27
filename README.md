@@ -46,3 +46,4 @@ This project is licensed under the Apache License.
 * Myo Development team for their API help and support
 * PicoProj for sponsoring development PicoProjector
 
+### Built at HackTJ
