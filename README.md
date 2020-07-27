@@ -33,7 +33,6 @@ brew install opencv
 * Srinidhi Krishnamurthy
 * Wassim Omais
 * Shwetark Patel
-* Yang Liu
 * Jerry Huang
 * Yash Bolisetty
 
